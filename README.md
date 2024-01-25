@@ -15,6 +15,6 @@ This project showcases a responsive dashboard focused on cryptocurrencies and ex
 3. Run the development server with `npm start`.
 4. Access the dashboard in your browser at `http://localhost:3000` (or the specified port).
 
-## Live
-[Live](https://crypto-react-app-eight.vercel.app/)
+## Live Server
+[Link](https://crypto-react-app-eight.vercel.app/)
 
